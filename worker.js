@@ -1,6 +1,8 @@
 // Open-Meteo API base URL (no API key required here)
 const WEATHER_API_URL = 'https://api.open-meteo.com/v1/forecast';
 
+//deploy
+
 // Weather code descriptions in English and Romanian
 const weatherCodeDescriptions = {
   0: { en: 'Clear sky', ro: 'Cer senin' },
