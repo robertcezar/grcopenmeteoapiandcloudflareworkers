@@ -106,7 +106,7 @@ async function handleRequest(request) {
           <p><strong>Afara e:</strong> ${weatherDescription.ro}</p>
           <p><strong>Șanse de ploaie azi:</strong> ${rainMessage}</p>
         </div>
-        <div class="footer">Coded by Robert G. with Open-Meteo API and Cloudflare Workers</div>
+        <div class="footer">Coded by Robert G. with Open-Meteo API and Cloudflare Workers - https://github.com/robertcezar/grcopenmeteoapiandcloudflareworkers</div>
       </body>
       </html>
     `;
